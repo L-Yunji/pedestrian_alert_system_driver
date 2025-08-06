@@ -78,5 +78,5 @@ module_init(alert_init);
 module_exit(alert_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Your Name");
+MODULE_AUTHOR("Yunji LEE");
 MODULE_DESCRIPTION("Virtual alert trigger device");
